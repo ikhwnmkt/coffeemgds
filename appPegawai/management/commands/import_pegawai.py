@@ -1,6 +1,6 @@
 import json 
 from django.core.management.base import BaseCommand
-from pegawai.models import pegawai
+from employees.models import pegawai
 
 class Command(BaseCommand):
   help = "Import data pegawai dari JSON ke databse"
