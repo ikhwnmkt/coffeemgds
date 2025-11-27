@@ -1,0 +1,68 @@
+[
+    {
+        "id_pegawai": "111",
+        "nama": "Andi",
+        "posisi": "Barista",
+        "shift": "Pagi",
+        "gaji_per_jam": 15000,
+        "jam_kerja": 6,
+        "bonus_per_minuman": 1000,
+        "minuman_terjual": 20,
+        "jenis": "barista"
+    },
+    {
+        "id_pegawai": "112",
+        "nama": "Bahlil",
+        "posisi": "Barista",
+        "shift": "Pagi, Siang, Sore, Malam",
+        "gaji_per_jam": 500,
+        "jam_kerja": 24,
+        "bonus_per_minuman": 1000,
+        "minuman_terjual": 30,
+        "jenis": "barista"
+    },
+    {
+        "id_pegawai": "113",
+        "nama": "Wowo",
+        "posisi": "Barista",
+        "shift": "Pagi, Malam",
+        "gaji_per_jam": 300,
+        "jam_kerja": 12,
+        "bonus_per_minuman": 1000,
+        "minuman_terjual": 50,
+        "jenis": "barista"
+    },
+    {
+        "id_pegawai": "114",
+        "nama": "Sahroni",
+        "posisi": "Barista",
+        "shift": "Siang, Malam",
+        "gaji_per_jam": 700,
+        "jam_kerja": 12,
+        "bonus_per_minuman": 1000,
+        "minuman_terjual": 50,
+        "jenis": "barista"
+    },
+    {
+        "id_pegawai": "115",
+        "nama": "Puan",
+        "posisi": "Barista",
+        "shift": "Pagi, Sore, Malam",
+        "gaji_per_jam": 2000,
+        "jam_kerja": 18,
+        "bonus_per_minuman": 1000,
+        "minuman_terjual": 40,
+        "jenis": "barista"
+    },
+    {
+        "id_pegawai": "116",
+        "nama": "Dodo",
+        "posisi": "Barista",
+        "shift": "Pagi, Siang",
+        "gaji_per_jam": 900,
+        "jam_kerja": 12,
+        "bonus_per_minuman": 1000,
+        "minuman_terjual": 20,
+        "jenis": "barista"
+    }
+]
